@@ -1,5 +1,5 @@
 # VELASCO
-Sistema de compresiones torácicas automatizada e inteligente
+Sistema de compresiones torácicas automatizadoe inteligente
 
 Sistema aun en desarrollo.
 
